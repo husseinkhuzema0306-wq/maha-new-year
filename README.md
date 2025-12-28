@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Happy New Year Maha 💖</title>
+<title>Happy New Years Maha 💖</title>
 
 <style>
 :root {
